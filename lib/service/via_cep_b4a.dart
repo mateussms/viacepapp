@@ -1,0 +1,3 @@
+class ViaCepB4A{
+  
+}
